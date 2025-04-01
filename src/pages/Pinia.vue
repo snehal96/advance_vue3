@@ -13,7 +13,6 @@ import CounterApp from '@/components/CounterComponent.vue';
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  background-color: #f7f7f7;
+  height: 90vh;
 }
 </style>
